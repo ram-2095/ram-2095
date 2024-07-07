@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ram-2095
-- 👀 I’m interested in web devloping and also interested in cyber security.
+- 👀 I’m interested in web devloping and also interested in Data Analysis.
 - 🌱 I’m currently learning computer engineering in gandhinagar, Gujarat.
 - 💞️ I’m looking to collaborate on ...
 - 📫 If you want to reach me please mail me on : solankiram072@gmail.com 
